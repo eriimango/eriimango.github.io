@@ -32,7 +32,7 @@ font-size:20px;
 label, input, button {
 	display: block;
 	width: 55%;
-	padding:0;
+	padding:60px;
 	color: white;
 	outline: none;
 	box-sizing: border-box;
