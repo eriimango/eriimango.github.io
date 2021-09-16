@@ -14,7 +14,6 @@ font-size:20px;
 }
 
 .container {
-	text-align:center;
 	position: relative;
 	width: 350px;
 	height: 500px;
@@ -37,7 +36,8 @@ label, input, button {
 	color: white;
 	outline: none;
 	box-sizing: border-box;
-	font-family: 'AvenirNext-Bold', sans-serif; ;
+	font-family: 'AvenirNext-Bold', sans-serif;
+	text-align:center;
 }
 
 input::placeholder {
