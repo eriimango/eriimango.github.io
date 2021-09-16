@@ -37,7 +37,7 @@ label, input, button {
 	outline: none;
 	box-sizing: border-box;
 	font-family: 'AvenirNext-Bold', sans-serif;
-	text-align:center;
+	
 }
 
 input::placeholder {
